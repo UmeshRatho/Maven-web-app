@@ -10,7 +10,7 @@
   
   <h1> Learn Here.. Lead Anywhere..!! </h1>
 
-  <h1> NO One Institude..!! </h1>
+  <h1> I am studying in this institute..!! </h1>
 
 </body>
 </html>
