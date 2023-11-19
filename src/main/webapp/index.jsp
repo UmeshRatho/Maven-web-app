@@ -10,7 +10,5 @@
   
   <h1> Learn Here.. Lead Anywhere..!! </h1>
 
-  <h1> I am work as DevOps Engineer </h1>
-
 </body>
 </html>
